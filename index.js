@@ -1,4 +1,4 @@
 function greet() {
-  console.log("Hello, Coders!");
+  console.log("Hello, duniya!");
 }
 greet();
